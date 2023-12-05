@@ -1,0 +1,18 @@
+.card
+{
+ box-shadow: 0 4px 8px 0 rgba(228, 17, 17, 0.2);
+}
+.btn:hover {
+    background-color: #092bef;
+  }
+
+.card-body{
+    background-color: rgb(125, 6, 57);
+}
+label{
+    color: yellow;
+}
+.card-header{
+    background-color: yellow;
+    color: red;
+}
